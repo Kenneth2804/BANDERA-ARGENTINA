@@ -1,0 +1,36 @@
+body{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	margin: 0;
+	background: #f0f0f0;
+}
+
+.flag{
+	width: 300px;
+	height: 200px;
+	border: 1px solid #000;
+}
+.stripe{
+	height: 33.33%;
+	width: 100%;
+}
+.top{
+	background-color: #74acdf ;
+}
+.middle{
+	background-color: #fff ;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.bottom{
+	background-color: #74acdf ;
+}
+
+.sun{
+	width: 50px;
+	height: auto;
+}
